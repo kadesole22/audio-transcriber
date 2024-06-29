@@ -1,0 +1,1 @@
+ Hello, today we're going to be testing out my new OpenAI project. This is using the OpenAI whisper. It also incorporates PHP and Python elements because it's going to be a plugin for WordPress. I'm really excited and I hope it works well.
